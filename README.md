@@ -1,2 +1,2 @@
 # Hello-World
-pierwszy projekt
+pierwszy projekt z git
